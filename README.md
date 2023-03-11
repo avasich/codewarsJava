@@ -1,0 +1,1 @@
+Solving katas to get a better grasp on java core and collections.
