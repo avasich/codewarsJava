@@ -2,7 +2,7 @@
  * https://www.codewars.com/kata/5656b6906de340bd1b0000ac
  */
 
-package k7.t3_TwoToOne;
+package k7.t03_TwoToOne;
 
 import java.util.stream.IntStream;
 

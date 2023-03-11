@@ -1,4 +1,4 @@
-package k7.t3_TwoToOne;
+package k7.t03_TwoToOne;
 
 import org.junit.Test;
 

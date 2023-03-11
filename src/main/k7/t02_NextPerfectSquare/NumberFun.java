@@ -2,7 +2,7 @@
  * https://www.codewars.com/kata/56269eb78ad2e4ced1000013
  */
 
-package k7.t2_NextPerfectSquare;
+package k7.t02_NextPerfectSquare;
 
 public class NumberFun {
     private static final long maxRoot = (long) Math.sqrt((double) Long.MAX_VALUE);

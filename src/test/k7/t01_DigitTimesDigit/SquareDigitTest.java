@@ -1,4 +1,4 @@
-package k7.t1_DigitTimesDigit;
+package k7.t01_DigitTimesDigit;
 
 import org.junit.Test;
 

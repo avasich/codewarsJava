@@ -2,7 +2,7 @@
  * https://www.codewars.com/kata/546e2562b03326a88e000020
  */
 
-package k7.t1_DigitTimesDigit;
+package k7.t01_DigitTimesDigit;
 
 public class SquareDigit {
     public int squareDigits(int n) {

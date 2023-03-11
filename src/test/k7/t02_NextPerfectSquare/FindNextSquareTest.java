@@ -1,4 +1,4 @@
-package k7.t2_NextPerfectSquare;
+package k7.t02_NextPerfectSquare;
 
 import org.junit.Test;
 
