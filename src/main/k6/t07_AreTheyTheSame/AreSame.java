@@ -1,3 +1,7 @@
+/**
+ * https://www.codewars.com/kata/550498447451fbbd7600041c
+ */
+
 package k6.t07_AreTheyTheSame;
 
 import java.util.Arrays;
